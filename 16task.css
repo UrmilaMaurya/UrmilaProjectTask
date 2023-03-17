@@ -1,0 +1,108 @@
+
+body{
+    font-family: 'Roboto' !important;
+}
+.hom{
+    color: #5E3BEE !important;
+}
+.bt{
+    border: 1px solid #5E3BEE;
+    width: 80px;
+    height: 30px;
+    color: #5E3BEE;
+    background: white;
+    border-radius: 3px;
+}
+.mainhead{
+    background-color:  #F5FCFF;
+    max-height: 100%;
+}
+.mainheading{
+    margin-top: 192px;
+    margin-left: 76px;
+
+}
+
+.hea{
+    color:#282938;
+    font-weight: 600;
+}
+.pro{
+    color: #5E3BEE;
+}
+.bttn{
+    width: 86px;
+    height: 36px;
+    font-size: 11px;
+    background-color: #5E3BEE;
+    margin-top: 5px;
+    color: white;
+    border-radius: 4px;
+
+}
+.imgg{
+    width: 501px;
+    height: 411px;
+    margin-top: 100px;
+    margin-bottom: 95px;
+}
+.myS{
+    font-size: 14px;
+    margin-left: 76px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+.myE{
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 73px;
+}
+.imgdiv{
+    width: 40px;
+    height: 35px;
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 13px;
+    box-shadow: 0px 0px white;
+    padding-top: 4px;
+}
+.serimg{
+    width: 27px;
+    height: 27px;
+}
+.ser{
+    border-radius: 11px;
+    padding-left: 47px;
+    
+}
+.str{
+    font-size: 15px;
+    font-weight: bold;
+}
+.myp{
+    font-size: 13px;
+    line-height: 18px;
+}
+.ro{
+    margin: 20px;
+    background-color: rgb(245, 252, 255);
+    border-bottom: 2px solid #5E3BEE;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.aboutimg{
+    width: 415px;
+    margin-top: 90px;
+    margin-left: 53px;
+}
+.abo{
+    font-weight: bold;
+  
+}
+.abou{
+    margin-top: 206px;
+   
+}
+
+
